@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClassTracker/static/css/main.cf8cb218.css",
+    "main.js": "/ClassTracker/static/js/main.cc2162c2.js",
+    "static/js/488.c749b090.chunk.js": "/ClassTracker/static/js/488.c749b090.chunk.js",
+    "index.html": "/ClassTracker/index.html",
+    "main.cf8cb218.css.map": "/ClassTracker/static/css/main.cf8cb218.css.map",
+    "main.cc2162c2.js.map": "/ClassTracker/static/js/main.cc2162c2.js.map",
+    "488.c749b090.chunk.js.map": "/ClassTracker/static/js/488.c749b090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cb218.css",
+    "static/js/main.cc2162c2.js"
+  ]
+}
